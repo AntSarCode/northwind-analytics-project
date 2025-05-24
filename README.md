@@ -63,5 +63,4 @@ You can download `northwind.sqlite` and place it in your local working folder.
 
 **Status:** ✅ Complete
 
-![Price Tier Pie Chart](output/price_tiers_pie_chart.png)
 

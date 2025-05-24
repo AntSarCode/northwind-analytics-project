@@ -48,3 +48,20 @@ Northwind-Analytics-Project/
 
 This project uses the [Northwind SQLite database](https://github.com/jpwhite3/northwind-SQLite)  
 You can download `northwind.sqlite` and place it in your local working folder.
+
+---
+
+## 📊 Prompt 2: Product Price Tiers
+
+**Goal:** Categorize product unit prices into "Low", "Medium", and "High" tiers using SQL `CASE`.  
+**Bonus:** Display tier distribution as a pie chart.
+
+- Join: Order Details → Products
+- Metric: UnitPrice buckets using CASE logic
+- Output: Pie chart of product price tiers
+- Technologies: SQLite, pandas, matplotlib
+
+**Status:** ✅ Complete
+
+![Price Tier Pie Chart](output/price_tiers_pie_chart.png)
+

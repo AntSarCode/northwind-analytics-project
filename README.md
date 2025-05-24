@@ -44,3 +44,7 @@ Northwind-Analytics-Project/
 ✅ Expand to other datasets (e.g., Chinook, public sales data)  
 ✅ Link this repo on your résumé and LinkedIn
 
+## 📦 Database Used
+
+This project uses the [Northwind SQLite database](https://github.com/jpwhite3/northwind-SQLite)  
+You can download `northwind.sqlite` and place it in your local working folder.
